@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: caminhada_springmvc
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Leone
+Implementation-Vendor-Id: br.com.hard
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/caminhada_springmvc
+Created-By: Maven Integration for Eclipse
+
